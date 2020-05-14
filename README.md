@@ -1,6 +1,6 @@
 # Learning-web-development
 
-A project created for me to learn web development. 
+A project created for me to learn web development
 - HTML
 - CSS
 - Javascript ES6
@@ -12,4 +12,5 @@ A project created for me to learn web development.
 - GraphQL
 - ...
 
-[Personal site](personal-site/html/index.html)
+Projects created
+- [Personal site](https://matsjohanpersson.github.io/personal-site/)
