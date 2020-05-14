@@ -12,4 +12,4 @@ A project created for me to learn web development.
 - GraphQL
 - ...
 
-[Personal site](../blob/master/personal-site/html/index.html)
+[Personal site](../personal-site/html/index.html)
