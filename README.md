@@ -11,3 +11,5 @@ A project created for me to learn web development.
 - REST
 - GraphQL
 - ...
+
+[Personal site](../blob/master/personal-site/html/index.html)
